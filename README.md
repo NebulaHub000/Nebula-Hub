@@ -1,2 +1,2 @@
 # Nebula-Hub
-Githut for Nebula Hub
+Github for Nebula Hub
